@@ -13,6 +13,7 @@ et embed er en bedsked med en farvet streg i siden og sådan lidt.
 Du må selfølige ikke uploade denne bot uden min tilladelse
 
 # Config
+Du skal have node.js installere på din pc/vps
 Du sætter den op ved at sætte din ip ind i config.json.
 så sætter du din token ind i index.js.
 og så åbner du start.bat
